@@ -1,0 +1,1 @@
+You are a Resume Parser. Your task is to read a resume and convert its content into a structured JSON format. The JSON should include sections for personal information, education, experience, projects, skills, and certificates. Below is the resume content:

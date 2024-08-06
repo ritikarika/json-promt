@@ -1,0 +1,109 @@
+{
+    "personal_information": {
+      "name": "Ritika Biswas",
+      "location": "Jalandhar, Punjab 144005",
+      "phone": "9123052242",
+      "email": "biswasritika4@gmail.com",
+      "linkedin": "www.linkedin.com/in/ritika-biswas",
+      "github": "github.com/ritikarika"
+    },
+    "education": [
+      {
+        "institution": "Lovely Professional University",
+        "location": "Jalandhar, Punjab",
+        "degree": "M.Tech in Machine Learning and Artificial Intelligence",
+        "dates": "2023 – 2025",
+        "cgpa": "7.11"
+      },
+      {
+        "institution": "Camellia Institute of Technology",
+        "location": "Madhyamgram, WB",
+        "degree": "B.Tech in Computer Science and Engineering",
+        "dates": "2019 – 2023",
+        "cgpa": "8.95"
+      }
+    ],
+    "experience": [
+      {
+        "title": "Python Intern",
+        "company": "Oasis Infobyte",
+        "dates": "Mar 2024 - April 2024",
+        "responsibilities": [
+          "Created and implemented real-life Python Projects using python and vscode.",
+          "Gained experience and got an idea how Python works in real-life scenario.",
+          "Used different libraries of python to build real life projects."
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "Papaya Disease Classification using Fuzzy CNN",
+        "technologies": ["Deep Learning", "Tensorflow", "Jupyter Notebook", "Python"],
+        "date": "May 2024",
+        "description": [
+          "Dealt with papaya disease image dataset.",
+          "Tested the dataset with deep learning algorithm CNN mixed with fuzzy logic followed by data visualization.",
+          "Use of Deep Learning model such as CNN has provided the best accuracy."
+        ],
+        "github": "https://github.com/ritikarika/papaya-disease-classificatio-using-fuzz-cnn"
+      },
+      {
+        "name": "Effective Heart Disease Diagnosis",
+        "technologies": ["Machine Learning", "Jupyter Notebook", "Python"],
+        "date": "Feb 2024",
+        "description": [
+          "Dealt with heart disease dataset.",
+          "Tested the dataset with various machine learning algorithms followed by data visualization.",
+          "Use of Machine Learning model such as XGBoost has provided the 98% accuracy."
+        ],
+        "github": "https://github.com/ritikarika/heart-disease-prediction-research"
+      },
+      {
+        "name": "Food Delivery Website",
+        "technologies": ["HTML", "CSS", "JavaScript", "Django"],
+        "date": "Feb 2023",
+        "description": [
+          "Developed a cloud kitchen dealing website.",
+          "Used features to enhance customer experience regarding cloud kitchen.",
+          "Provided a user-friendly experience using Django Framework, HTML, and CSS."
+        ],
+        "github": "https://github.com/ritikarika/food-delivery-website"
+      }
+    ],
+    "certificates": [
+      {
+        "title": "International Conference on Intelligent Computing and Communication Techniques (ICICCT-2024)",
+        "date": "June 2024",
+        "link": "Certificate Link"
+      },
+      {
+        "title": "Python Hackerrank",
+        "date": "Jan 2024",
+        "link": "Hackerrank —Certificate Link"
+      },
+      {
+        "title": "Python Data Structure",
+        "date": "Sep 2023",
+        "link": "PerfecteLearning —Certificate Link"
+      },
+      {
+        "title": "Basics of Python",
+        "date": "July 2023",
+        "link": "PerfecteLearning —Certificate Link"
+      }
+    ],
+    "skills": {
+      "languages": ["Python", "Java"],
+      "technical_skills": [
+        "Data Structures and Algorithms",
+        "Problem-Solving",
+        "MySQL",
+        "Pytest"
+      ],
+      "ml_dl": ["scikit", "TensorFlow", "Keras", "PyTorch", "OpenCV"],
+      "nlp": ["NLTK", "LLM", "RNN"],
+      "web_technologies_frameworks": ["HTML", "CSS", "REST-Api"],
+      "data_analysis": ["Pandas", "Numpy", "Matplotlib", "Seaborn", "Power BI"]
+    }
+  }
+  
